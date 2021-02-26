@@ -1,1 +1,2 @@
 This is my github workshop stuff.
+I am learning how to use git.
